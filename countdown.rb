@@ -5,7 +5,7 @@ def countdown(countdown)
   while countdown > 0
     puts "#{countdown} SECOND!"
     sleep(5)
-  
+
   end
   "HAPPY NEW YEAR!"
 end
