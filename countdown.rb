@@ -5,6 +5,6 @@ def countdown(happy_new_year)
     sleep(5)
     puts "#{countdown} SECOND"
     count -= 1
-    SECOND(0) == "HAPPY NEW YEAR!"
+    "0 SECOND!" == "HAPPY NEW YEAR!"
   end
 end
