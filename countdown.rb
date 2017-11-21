@@ -1,4 +1,6 @@
-#write your code
+def countdown_with_sleep(5)
+  sleep(5)
+end
 
 def countdown(countdown)
   countdown = 10
