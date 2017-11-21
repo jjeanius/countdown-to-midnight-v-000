@@ -1,10 +1,11 @@
 #write your code
 def countdown(happy_new_year)
-  countdown = -10
+  countdown = 12
   while countdown > 0
+    sleep(5)
     puts "#{countdown} SECOND"
     count -= 1
-    sleep(5)
-  "HAPPY NEW YEAR!"
+    SECOND(0) == "HAPPY NEW YEAR!"
   end
 end
+)
