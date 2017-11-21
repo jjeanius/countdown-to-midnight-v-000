@@ -8,4 +8,3 @@ def countdown(happy_new_year)
     SECOND(0) == "HAPPY NEW YEAR!"
   end
 end
-)
