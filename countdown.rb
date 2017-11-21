@@ -1,5 +1,5 @@
-#write your code here
-def countdown("HAPPY NEW YEAR")
+#write your code
+def countdown(happy_new_year)
   countdown = -10
   while countdown > 0
     puts "#{countdown} SECOND"
